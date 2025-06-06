@@ -37,7 +37,7 @@ You can find the User Guide for the package in the vignettes folder or access it
 
 ### Citation
 
-If you use MORE, please cite: Aguerralde-Martin, Maider; Tomas-Riquelme, Blannca; Clemente-Císcar, Mónica; Conesa, Ana and Tarazona, Sonia. MORE: Multi-Omics REgulation. R package version 1.0.
+If you use MORE, please cite: Aguerralde-Martin, Maider; Clemente-Císcar, Mónica; Conesa, Ana and Tarazona, Sonia. MORE interpretable multi-omic regulatory networks to characterize phenotypes. *Briefings in Bioinformatics*, accepted. DOI: https://doi.org/10.1093/bib/bbaf270.
 
 
 ### License
